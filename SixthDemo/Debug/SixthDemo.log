@@ -1,0 +1,12 @@
+﻿  SixthDemo.cpp
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(32): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(32): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(36): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(35): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(160): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\27234\source\repos\sixthdemo\sixthdemo.cpp(162): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  SixthDemo.vcxproj -> C:\Users\27234\source\repos\SixthDemo\Debug\SixthDemo.exe
